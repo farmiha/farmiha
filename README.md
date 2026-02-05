@@ -1,5 +1,8 @@
-# 💫 Hi, I'm Farmiha! 
-👩🏻‍💻 I’m currently pursuing a Bachelor of Science in Computer Science at Hunter College, and I’m excited to share my journey with you.<br>🌱 I’m currently learning Discrete Math and C++<br>👯 I’m looking to collaborate on coding projects.
+# 💫 Hi, I'm Farmiha!
+👩🏻‍💻 Computer Science student at Hunter College with minors in Mathematics and Accounting, passionate about cybersecurity, web development, and AI projects.
+🌱 Currently learning C++, Linux system administration, and building hands-on skills in network security through the CodePath Cybersecurity Fellowship.
+👯 Working on projects like Back2Wo, a multi-agent AI web app for product sourcing, and open to collaborating on full-stack, AI, and security-focused projects.
+💡 Skilled in Python, C++, HTML/CSS, Bash scripting, and using tools like Git, GitHub, VSCode, Xcode, and Figma.
 
 
 ## 🌐 Socials:
