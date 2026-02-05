@@ -1,8 +1,8 @@
 # 💫 Hi, I'm Farmiha!
 👩🏻‍💻 Computer Science student at Hunter College with minors in Mathematics and Accounting, passionate about cybersecurity, web development, and AI projects.
-🌱 Currently learning C++, Linux system administration, and building hands-on skills in network security through the CodePath Cybersecurity Fellowship.
-👯 Working on projects like Back2Wo, a multi-agent AI web app for product sourcing, and open to collaborating on full-stack, AI, and security-focused projects.
-💡 Skilled in Python, C++, HTML/CSS, Bash scripting, and using tools like Git, GitHub, VSCode, Xcode, and Figma.
+<br>🌱 Currently learning C++, Linux system administration, and building hands-on skills in network security through the CodePath Cybersecurity Fellowship.
+<br>👯 Working on projects like Back2Wo, a multi-agent AI web app for product sourcing, and open to collaborating on full-stack, AI, and security-focused projects.
+<br>💡 Skilled in Python, C++, HTML/CSS, Bash scripting, and using tools like Git, GitHub, VSCode, Xcode, and Figma.
 
 
 ## 🌐 Socials:
